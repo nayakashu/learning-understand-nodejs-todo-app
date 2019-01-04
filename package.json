@@ -1,0 +1,30 @@
+{
+  "name": "learning-understand-nodejs-todo-app",
+  "version": "1.0.0",
+  "description": "Develop a ToDo App using MEAN stack to learn and understand Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayakashu/learning-understand-nodejs-todo-app.git"
+  },
+  "keywords": [
+    "Node.js",
+    "ToDo",
+    "App",
+    "MEAN"
+  ],
+  "author": "nayakashu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nayakashu/learning-understand-nodejs-todo-app/issues"
+  },
+  "homepage": "https://github.com/nayakashu/learning-understand-nodejs-todo-app#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.2"
+  }
+}
